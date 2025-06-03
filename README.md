@@ -108,4 +108,4 @@ python main.py
 - Módulo `datetime` (incluido en Python)
 
 ## 👨‍💻 Autor
-Desarrollado como práctica de **Programación I** - UTN
+Desarrollado por Lautaro Fernandez como práctica de **Programación I** - UTN
